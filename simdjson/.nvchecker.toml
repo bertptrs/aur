@@ -1,5 +1,0 @@
-[simdjson]
-source = "github"
-github = "lemire/simdjson"
-prefix = "v"
-use_latest_release = true
